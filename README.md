@@ -55,6 +55,7 @@ mapla stomach pain irruku
 MedBot will respond in your selected language with suggestions and home remedies.
 
 📁 File Structure
+
 ![alt text](image-2.png)
 
 🛡️ Disclaimer
