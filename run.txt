@@ -1,0 +1,9 @@
+✅:
+Open your terminal (Command Prompt or PowerShell).
+Navigate to your project directory:
+
+cd C:\Users\Sweth\Downloads\chat
+
+Run this command:
+
+streamlit run hi.py
